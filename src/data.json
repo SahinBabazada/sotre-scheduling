@@ -1,0 +1,41 @@
+[
+    {
+      "employeeInfo": "AS1396 - Tahirov Nizami",
+      "dates": ["05-Aug", "06-Aug", "07-Aug", "08-Aug", "09-Aug", "10-Aug", "11-Aug"],
+      "shiftStats": {
+        "morning": "Səhər 3",
+        "evening": "Axşam 3",
+        "night": "Gecə 1"
+      },
+      "restStats": {
+        "morning": "Day Off",
+        "evening": "Bayram",
+        "night": "Məzuniyyət"
+      },
+      "notifications": {
+        "morning": "Növbələr arasındakı 12 saat intervalı pozulub",
+        "evening": "Bayram günü təyin edilməyib",
+        "night": "Bayram günü təyin edilməyib"
+      }
+    },
+    {
+      "employeeInfo": "HRIS Manager",
+      "dates": ["A", "A", "T", "B", "F", "T", "T"],
+      "shiftStats": {
+        "morning": "A",
+        "evening": "A",
+        "night": "HR"
+      },
+      "restStats": {
+        "morning": "07:45 - 19:53",
+        "evening": "09:56 - 18:56",
+        "night": ""
+      },
+      "notifications": {
+        "morning": "Day Off təyin edilməyib",
+        "evening": "Day Off təyin edilməyib",
+        "night": ""
+      }
+    }
+  ]
+  
